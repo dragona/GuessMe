@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GuessMe</string>
+    <string name="information">The computer only consider a number from 1 to 9999.</string>
+</resources>
